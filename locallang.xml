@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>module</type>
+		<description>Language labels for extension 'tx_bildungsangebote'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="pi1_title">Angebote</label>
+			<label index="pi1.offerByMonth">Angebote nach Monaten</label>
+			<label index="pi1.offerByCategrory">Angebote nach Kategorien</label>
+			<label index="pi1.offerList">Angebotesliste mit Bild</label>
+			<label index="pi1.offerListBoxed">Angebotesliste als Boxen</label>
+			<label index="pi1.what_to_display">Ansicht:</label>
+			<label index="pi1.category_selection">Kategorieauswahl:</label>
+			<label index="pi1.itemsHeader">weitere Optionen</label>
+			<label index="pi1.subText">Text:</label>
+		</languageKey>
+	</data>
+</T3locallang>

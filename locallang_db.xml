@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>database</type>
+		<description>Language labels for database tables/fields belonging to extension 'tx_bildungsangebote'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="tx_txbildungsangebote_cat">Kategorien</label>
+			<label index="tx_txbildungsangebote_cat.title">Titel</label>
+			<label index="tx_txbildungsangebote_cat.parent_category">übergeordnete Kategorie</label>
+			<label index="tx_txbildungsangebote_angebot">Angebote</label>
+			<label index="tx_txbildungsangebote_angebot.title">Titel</label>
+			<label index="tx_txbildungsangebote_angebot.description">Beschreibung</label>
+			<label index="tx_txbildungsangebote_angebot.duration">Dauer</label>
+			<label index="tx_txbildungsangebote_angebot.start">Einordnung in Kalenderansicht</label>
+			<label index="tx_txbildungsangebote_angebot.category">Kategorie</label>
+			<label index="tx_txbildungsangebote_angebot.pdf">PDF</label>
+			<label index="tx_txbildungsangebote_angebot.number">Maß.-nr.</label>
+			<label index="tx_txbildungsangebote_angebot.dayly_repeat">täglicher Einstieg</label>
+            <label index="tx_txbildungsangebote_angebot.image">Bild</label>
+            <label index="tx_txbildungsangebote_angebot.events">Termine</label>
+            <label index="tx_txbildungsangebote_angebot.color">Farbe des Titels</label>
+			<label index="tt_content.list_type_pi1">Angebote</label>
+		</languageKey>
+	</data>
+</T3locallang>
